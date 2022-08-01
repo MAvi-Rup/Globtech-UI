@@ -17,7 +17,7 @@ const Navbar = () => {
                             <li><Link to="/login">Login</Link></li>
                         </ul>
                     </div>
-                    <a href='#' class="btn btn-ghost normal-case text-xl"><img src="https://i.ibb.co/GRnx1qb/glogo.png" alt='Logo' /></a>
+                    <Link to='/' class="btn btn-ghost normal-case text-xl"><img src="https://i.ibb.co/GRnx1qb/glogo.png" alt='Logo' /></Link>
                 </div>
                 <div class="navbar-end hidden lg:flex">
                     <ul class="menu menu-horizontal p-0"> 
