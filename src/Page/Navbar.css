@@ -1,0 +1,18 @@
+div .bg-color{
+    background: linear-gradient(246.24deg, #00094D 0%, #000424 100%);
+}
+
+ul>li:hover{
+    color: #D7F561;
+    
+}
+ul>li{
+    color: #8FE5FF;
+}
+
+div.flex-display{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    
+}
